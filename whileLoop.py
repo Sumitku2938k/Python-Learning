@@ -12,4 +12,8 @@ while True:
     print(num)
     if num == 0:
         break # Will terminate the while loop
-j
+    
+j = 0
+while j < 5:
+    print(j)
+    j += 1
